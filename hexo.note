@@ -1,3 +1,5 @@
+hexo new "My new Post"
+
 hexo g //generate static files
 
 hexo serve -p 5001  //localhost:5001 to checkout updates
