@@ -1,3 +1,6 @@
 [submodule "themes/cactus"]
 	path = themes/cactus
 	url = https://github.com/probberechts/hexo-theme-cactus.git
+[submodule "source/_posts/awesomeWM/.config/awesome/battery-widget"]
+	path = source/_posts/awesomeWM/.config/awesome/battery-widget
+	url = https://github.com/deficient/battery-widget.git
