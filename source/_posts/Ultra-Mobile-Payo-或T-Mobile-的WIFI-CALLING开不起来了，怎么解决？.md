@@ -1,0 +1,26 @@
+---
+title: Ultra Mobile Payo(或T-Mobile)的WIFI CALLING开不起来了，怎么解决？
+date: 2022-11-11 21:22:36
+tags:
+---
+
+手机端手动改DNS。最简单方便。
+
+在连上WIFI的信号上，添加2条手动DNS
+
+```
+199.85.126.10
+
+199.85.127.10
+```
+
+或是
+
+```
+208.54.49.131 depdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.36.3 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.35.163 epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.35.163 ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+208.54.87.3 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+```
+

@@ -103,5 +103,5 @@ theme: jane
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/cuu/cuu.github.com.git
+  repo: git@github.com:cuu/cuu.github.com.git
   branch: master
