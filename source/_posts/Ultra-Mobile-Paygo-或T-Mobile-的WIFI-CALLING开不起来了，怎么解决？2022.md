@@ -24,3 +24,25 @@ tags:
 208.54.87.3 ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
 ```
 
+格式规律是 
+```
+epdg.epc.<服务商 mnc>.<服务商 mcc>.pub.3gppnetwork.org
+```
+mnc mcc 号码来自 
+
+https://en.wikipedia.org/wiki/Mobile\_country\_code
+
+例如
+```
+epdg.epc.mnc260.mcc310.pub.3gppnetwork.org for MNC260 MCC310 (T-Mobile USA)
+```
+
+wifi calling 
+
+UDP 500,4500
+
+TCP 143
+
+
+
+
