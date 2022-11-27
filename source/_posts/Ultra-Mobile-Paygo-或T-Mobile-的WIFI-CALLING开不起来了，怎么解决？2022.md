@@ -1,5 +1,5 @@
 ---
-title: Ultra Mobile Payo(或T-Mobile)的WIFI CALLING开不起来了，怎么解决？
+title: Ultra Mobile Paygo(或T-Mobile)的WIFI CALLING开不起来了，怎么解决 2022？
 date: 2022-11-11 21:22:36
 tags:
 ---
@@ -30,7 +30,7 @@ epdg.epc.<服务商 mnc>.<服务商 mcc>.pub.3gppnetwork.org
 ```
 mnc mcc 号码来自 
 
-https://en.wikipedia.org/wiki/Mobile\_country\_code
+https://en.wikipedia.org/wiki/Mobile_country_code
 
 例如
 ```
