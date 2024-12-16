@@ -1,3 +1,6 @@
+#for theme installation
+#git submodule update --init
+
 hexo new "My new Post"
 
 hexo g //generate static files
