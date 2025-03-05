@@ -1,7 +1,10 @@
 ---
 title: ESP32-s3 jetbrain clion startup
 date: 2025-02-07 21:03:00
-tags: ESP32 clion 
+tags:
+- note 
+- ESP32-s3 
+- clion 
 ---
 
 
