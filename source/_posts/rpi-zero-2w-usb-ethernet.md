@@ -147,7 +147,7 @@ confirm you can successfully connect.  If you can connect, then this means you c
 
 Create a file in `/etc/udev/rules.d/` eg: 99-pico-zero-2w-persistent-usb0.rules  
 ```
-SUBSYSTEM=="net", ACTION=="add", ATTRS{idVendor}=="0525", ATTRS{idProduct}=="a4a2", NAME="usb0"
+SUBSYSTEM=="net", ACTION=="add", ATTRS{idVendor}=="0525", ATTRS{idProduct}=="a4a2", NAME="usb0",RUN+="/sbin/ifconfig usb0 192.168.7.1"
 ```
 
 get 0525:a4a2 from lsusb
